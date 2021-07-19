@@ -1,2 +1,1 @@
 # mylogin
-loginform
